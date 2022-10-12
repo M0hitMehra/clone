@@ -1,0 +1,17 @@
+.help{
+    background-image: url(https://simmifoundation.org/home/images/help-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    text-align: center;
+   
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1.2rem;
+}
+
+
+
+.help-card{
+    background-color: black;
+   
+}
